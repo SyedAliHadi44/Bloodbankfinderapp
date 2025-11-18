@@ -9,7 +9,7 @@ import {
   SheetTrigger,
 } from './ui/sheet';
 
-import logo from '..asset/536a7fd03fa76df48adf91b3a163115b6684cc7c.png';
+import logo from 'asset/536a7fd03fa76df48adf91b3a163115b6684cc7c.png';
 
 interface HeaderProps {
   currentPage: string;
