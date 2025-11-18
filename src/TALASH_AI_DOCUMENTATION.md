@@ -39,7 +39,7 @@ Talash AI is an intelligent chatbot assistant integrated into the Talash-e-Blood
 ```
 Hi — I'm Talash AI. How can I help?
 
-💡 Try: 'Find nearest O- blood' or choose an action below.
+💡 Try: 'Find nearest blood for your blood type' or choose an action below.
 ```
 
 ### Quick Action Labels
